@@ -16,6 +16,12 @@ Para executar o projeto serão necessárias algumas obrigatoriedades para o devi
 - Importações: Scanner, LocalDate, ArrayList
 
 ### Executando o Programa
-Ao executar o programa, o console irá exibir 5 opções de funcionalidades, escolha uma e siga as instruções do console.
+Ao executar o programa, o console irá exibir 5 opções de funcionalidades, escolha uma e siga as instruções do console. 
+
+- (1) Criar nova tarefa: Insira o nome da nova tarefa e a descrição da mesma em seguir;
+- (2) Listar tarefas: Selecione para que o console exiba todas as tarefas criadas;
+- (3) Atualizar Tarefa: Insira o ID da Tarefa que deseja atualizar (PS: Elas começam do ID 1);
+- (4) Deletar Tarefa: Insira o ID da Tarefa que deseja deletar (PS: Elas começam do ID);
+- (5) Finalizar Programa: Selecione para que o programa seja encerrado.
 
 Desenvolvido por: Eduarda Alencar
